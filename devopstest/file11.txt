@@ -1,2 +1,3 @@
 this is my 1st file
 modified @ 4:48pm
+add new file on git so i can fetch back to my local git.
